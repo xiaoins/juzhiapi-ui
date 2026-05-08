@@ -40,7 +40,7 @@ src/
 └── App.vue        # 根组件
 ```
 
-## 🚀 快速开始
+##  快速开始
 
 ### 前置条件
 
@@ -101,7 +101,7 @@ npm run build
 
 ##  License
 
-MIT License
+Apache License
 
 ##  贡献
 

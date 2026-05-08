@@ -6,7 +6,7 @@
 
 一个现代化的 AI 平台前端应用，基于 Vue3 + TypeScript 构建，提供完整的 AI 聊天、API Key 管理、钱包充值等功能。
 
-## ✨ 功能特性
+##  功能特性
 
 - **AI 聊天** - 支持多种模型的流式聊天体验
 - **API Key 管理** - 创建、查看、禁用 API Key
@@ -14,7 +14,7 @@
 - **用户认证** - JWT 登录/注册
 - **管理员面板** - 用户、模型、订单管理
 
-## 🛠️ 技术栈
+##  技术栈
 
 - **框架**: Vue 3 + TypeScript
 - **构建工具**: Vite
@@ -24,7 +24,7 @@
 - **图标**: Lucide Vue
 - **HTTP 客户端**: Axios
 
-## 📁 项目结构
+##  项目结构
 
 ```
 src/
@@ -73,7 +73,7 @@ npm run dev
 npm run build
 ```
 
-## 📱 功能预览
+##  功能预览
 
 ### 官网首页
 ![Home Page](https://github.com/xiaoins/juzhiapi-ui/blob/main/readme/juzhihome.gif?raw=true)
@@ -87,7 +87,7 @@ npm run build
 ### 钱包充值
 ![Wallet](https://github.com/xiaoins/juzhiapi-ui/blob/main/readme/wallet.png?raw=true)
 
-## 🔌 API 接口
+##  API 接口
 
 项目使用 Juzhi AI Platform 后端 API，主要接口包括：
 
@@ -99,10 +99,10 @@ npm run build
 
 详细接口文档请参考 [API.md](API.md)
 
-## 📄 License
+##  License
 
 MIT License
 
-## 🤝 贡献
+##  贡献
 
 欢迎提交 Issue 和 Pull Request！
